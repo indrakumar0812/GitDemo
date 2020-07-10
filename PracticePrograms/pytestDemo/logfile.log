@@ -1,0 +1,28 @@
+
+
+2020-07-04 18:15:24,409 :INFO : test_editprofile :Ram
+2020-07-04 18:15:24,409 :INFO : test_editprofile :rahulshettyacademy.com
+2020-07-04 18:17:34,160 :INFO : PracticePrograms.pytestDemo.Test_logging :Information messages
+2020-07-04 18:17:34,160 :WARNING : PracticePrograms.pytestDemo.Test_logging :Something is in warning mode
+2020-07-04 18:17:34,160 :ERROR : PracticePrograms.pytestDemo.Test_logging :A major error has occured
+2020-07-04 18:17:34,160 :CRITICAL : PracticePrograms.pytestDemo.Test_logging :A critical issue
+2020-07-04 18:17:34,332 :INFO : test_editprofile :Ram
+2020-07-04 18:17:34,332 :INFO : test_editprofile :rahulshettyacademy.com
+2020-07-04 18:21:44,828 :INFO : PracticePrograms.pytestDemo.Test_logging :Information messages
+2020-07-04 18:21:44,828 :WARNING : PracticePrograms.pytestDemo.Test_logging :Something is in warning mode
+2020-07-04 18:21:44,828 :ERROR : PracticePrograms.pytestDemo.Test_logging :A major error has occured
+2020-07-04 18:21:44,828 :CRITICAL : PracticePrograms.pytestDemo.Test_logging :A critical issue
+2020-07-04 18:21:45,000 :INFO : test_editprofile :Ram
+2020-07-04 18:21:45,000 :INFO : test_editprofile :rahulshettyacademy.com
+2020-07-04 18:24:55,137 :INFO : PracticePrograms.pytestDemo.Test_logging :Information messages
+2020-07-04 18:24:55,137 :WARNING : PracticePrograms.pytestDemo.Test_logging :Something is in warning mode
+2020-07-04 18:24:55,137 :ERROR : PracticePrograms.pytestDemo.Test_logging :A major error has occured
+2020-07-04 18:24:55,137 :CRITICAL : PracticePrograms.pytestDemo.Test_logging :A critical issue
+2020-07-04 18:24:55,293 :INFO : test_editprofile :Ram
+2020-07-04 18:24:55,293 :INFO : test_editprofile :rahulshettyacademy.com
+2020-07-04 18:25:41,799 :INFO : PracticePrograms.pytestDemo.Test_logging :Information messages
+2020-07-04 18:25:41,799 :WARNING : PracticePrograms.pytestDemo.Test_logging :Something is in warning mode
+2020-07-04 18:25:41,799 :ERROR : PracticePrograms.pytestDemo.Test_logging :A major error has occured
+2020-07-04 18:25:41,799 :CRITICAL : PracticePrograms.pytestDemo.Test_logging :A critical issue
+2020-07-04 18:25:42,040 :INFO : test_editprofile :Ram
+2020-07-04 18:25:42,040 :INFO : test_editprofile :rahulshettyacademy.com
