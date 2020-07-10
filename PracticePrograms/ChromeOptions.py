@@ -7,6 +7,7 @@ chrome_options.add_argument("--ignore-certificate-errors")
 driver = webdriver.Chrome(executable_path="C:\\Users\\indrasen\\Documents\\chromedriver_win32\\chromedriver.exe",options=chrome_options)
 driver.get("https://rahulshettyacademy.com/angularpractice/")
 print(driver.title)
+print(driver.current_url)
 
 #ie_optiops= webdriver.IeOptions()
 #ie_optiops.add_argument("--headless")
