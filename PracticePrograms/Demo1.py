@@ -10,5 +10,6 @@ sel = Select(driver.find_element_by_id("exampleFormControlSelect1"))
 sel.select_by_visible_text("Male")
 driver.find_element_by_css_selector("input[type='submit']").click()
 alertText = driver.find_element_by_css_selector("div[class*='alert-success']").text
+print(alertText)
 
 assert ("Success!" in alertText)

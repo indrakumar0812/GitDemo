@@ -8,6 +8,7 @@ driver = webdriver.Chrome(executable_path="C:\\Users\\indrasen\\Documents\\chrom
 driver.get("https://rahulshettyacademy.com/angularpractice/")
 print(driver.title)
 print(driver.current_url)
+print(driver.session_id)
 
 #ie_optiops= webdriver.IeOptions()
 #ie_optiops.add_argument("--headless")
