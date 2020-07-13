@@ -15,3 +15,4 @@ class Test:
 obj = Test()
 obj.sample()
 obj.Sample1()
+obj.Sample2()
