@@ -6,6 +6,9 @@ class Test:
 
 
     def Sample1(self):
+        print("Hello world1")
+
+    def Sample2(self):
         print("Hello world2")
 
 

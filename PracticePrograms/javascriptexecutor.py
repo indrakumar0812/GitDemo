@@ -13,6 +13,6 @@ print(driver.execute_script('return document.getElementsByName("name")[0].value'
 #shopButton = driver.find_element_by_xpath("//a[contains(@href,'shop')]")
 shopButton = driver.find_element_by_css_selector("a[href*='shop']")
 #clicking on shop button using javascript,arguments[0] means the locator which is targetted(shopButton)
-driver.execute_script('arguments[0].click();' , shopButton)
+driver.execute_script('arguments[0].click();', shopButton)
 #to scroll down in selenium using javascript
 driver.execute_script('window.scrollTo(0,document.body.scrollHeight);')
